@@ -1,0 +1,6 @@
+[submodule "2-python-texts-basics-2-vionapinto"]
+	path = 2-python-texts-basics-2-vionapinto
+	url = git@github.com:fbw-p22-e3-assignments/2-python-texts-basics-2-vionapinto.git
+[submodule "1-python-texts-basics-1-vionapinto"]
+	path = 1-python-texts-basics-1-vionapinto
+	url = git@github.com:fbw-p22-e3-assignments/1-python-texts-basics-1-vionapinto.git
